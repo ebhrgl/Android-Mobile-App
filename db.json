@@ -1,0 +1,200 @@
+{
+  "messages": [
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "bzhxhfjfjd",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "bzhxhfjfjd",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "zbbzbxbhdhdhs",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "zbbzbxbhdhdhs",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "jdjejjrir ",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "jdjejjrir ",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": " akakdjfbns ",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": " akakdjfbns ",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "hzhshhsjs",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "hzhshhsjs",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "ahhshshdu ",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "ahhshshdu ",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "bzbxbdbjd",
+      "nickname": "NEO",
+      "wallid": 0
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "bzbxbdbjd",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "endnjjjdjd ",
+      "nickname": "NEO",
+      "wallid": 0
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "endnjjjdjd ",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "ahshsheh",
+      "nickname": "NEO",
+      "wallid": 0
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "ahshsheh",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": " vzbshdhd",
+      "nickname": "NEO",
+      "wallid": 0
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": " vzbshdhd",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "eda ",
+      "nickname": "NEO",
+      "wallid": 0
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "eda ",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "sghsyd",
+      "nickname": "NEO",
+      "wallid": 0
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "sghsyd",
+      "nickname": "NEO",
+      "wallid": 1
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "message",
+      "nickname": "NEO",
+      "wallid": 0
+    },
+    {
+      "latitude": 10,
+      "longtitude": 10,
+      "message": "message",
+      "nickname": "NEO",
+      "wallid": 1
+    }
+  ],
+  "walls": [
+    {
+      "id": 0,
+      "title": "GTU Bilmuh",
+      "latitude": 1,
+      "longtitude": 1
+    },
+    {
+      "id": 1,
+      "title": "GTU Yabancı Dil",
+      "latitude": 1,
+      "longtitude": 10
+    }
+  ]
+}
